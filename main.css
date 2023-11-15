@@ -1,0 +1,20 @@
+html {    }}.s123-module-headers.layout-40 .headers-text-orders div:first-child
+ {    margin-bottom: 10px;}.s123-module-headers.layout-40.background-primary-color .s123-c-t-a a.btn-primary-automatic-recommended 
+ {    border-color: #000000;    color: #ffffff;    background-color: #000000;}.s123-module-headers.layout-40 .widget_subscribe_form 
+ {    margin: 0;}.s123-module-headers.layout-40 .s123-c-t-a .mailingListBox {    margin: 0 auto !important;}@media(min-width: 768px) 
+ {    .s123-module-headers.layout-40 .s123-c-t-a .mailingListBox {        margin:0 !important;    }}@media(min-width: 768px) 
+ {    .s123-module-headers.layout-40 .headers-container.wider-image .headers-img-wrap {        height:660px;    } 
+    .s123-module-headers.layout-40 .headers-container.wider-image {        grid-template-columns: 1fr 1fr 1fr 1fr;    }  
+      .s123-module-headers.layout-40 .headers-container.wider-image .s123-c-t-a,.s123-module-headers.layout-40 .headers-container.wider-image .header2 
+      {        width: 300px;    }    .s123-module-headers.layout-40 .headers-container.wider-image .headers-text-wrap 
+      {        padding-top: 85px;        grid-column-start: 1;        grid-column-end: 3;        grid-row-start: 1;        z-index: 2;    }   
+       .s123-module-headers.layout-40 .headers-container.wider-image .headers-img-wrap {        grid-column-start: 2;        grid-column-end: 5; 
+               grid-row-start: 1;        z-index: 1;    }}#section-169.s123-module-headers.layout-40.bg-primary-black .s123-c-t-a[data-type="buttons"]
+                a.btn-primary-transparent {    color: #ffffff;}#section-169.s123-module-headers.layout-40.bg-primary-black .s123-c-t-a[data-type="buttons"] 
+                a.btn-primary-transparent .svg-m {    background-color: #ffffff;}.s123-module-headers.layout-40 .header1:not(.bg-primary-black,.bg-primary-white,.bg-primary-gray)
+                 .mainWebsiteColor,.s123-module-headers.layout-40.background-primary-color .headers-text-wrap .header2 .mainWebsiteColor {    color: #000000;}
+                 .s123-module-headers.layout-40.background-primary-color .headers-text-wrap .header2 .svg-underline:after,.s123-module-headers.layout-40 .header1:not
+                 (.bg-primary-black,.bg-primary-white,.bg-primary-gray) 
+                 .svg-underline:after 
+                 {    background-color: #000000;}@media(min-width: 768px) {    .s123-module-headers.layout-40 .s123-c-t-a .s123-action-btn {        margin:auto 0 !important;    } 
+                    .s123-module-headers.layout-40 .s123-c-t-a .redirect-buttons-container {        justify-content: start;        gap: var(--c-t-a-buttons-space);    }}
